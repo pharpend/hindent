@@ -9,3 +9,5 @@ tags
 *.tag
 *.elc
 Main
+cabal.sandbox.config
+.cabal-sandbox/
