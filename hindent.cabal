@@ -31,6 +31,7 @@ library
                    , monad-loops
                    , mtl
                    , text
+                   , yaml
 
 executable hindent
   hs-source-dirs:    src/main
